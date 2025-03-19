@@ -8,7 +8,7 @@ The model comes from https://huggingface.co/MaziyarPanahi/calme-3.1-llamaloi-3b
 
 
 The video demonstration is also included in this repository: video.mp4.
-(image.png)
+![](image.png)
 
 I made some small adjustments based on the example code provided by the author:
 
