@@ -1,6 +1,5 @@
 # A-try-on-Law-LLM
 
-use the model from 
 
 Deploying a fine-tuned language generation model for the French legal field.
 
